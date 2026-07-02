@@ -1,8 +1,9 @@
 
 # ♟️ Computer Vision Chess Move Tracker v0
-<img width="1201" height="842" alt="image" src="https://github.com/user-attachments/assets/a73ded5d-e971-4b68-a3dd-ed1ec1f24d9b" />
 
 A powerful AI-powered system that automatically detects and tracks chess moves from video footage using fine-tuned YOLO11 computer vision models. Transform your chess games into PGN files, analyze moves with Stockfish, and get comprehensive game statistics.
+
+<img width="1201" height="842" alt="image" src="https://github.com/user-attachments/assets/a73ded5d-e971-4b68-a3dd-ed1ec1f24d9b" />
 
 ## 🎯 Features
 
